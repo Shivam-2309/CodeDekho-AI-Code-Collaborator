@@ -1,7 +1,7 @@
 
 # 🔗 CodeDekho – AI-Powered Real-Time Code Collaborator
 
-**CodeDekho** is a full-stack web application that enables multiple users to collaborate on code in real time, run code in various programming languages, and get AI-driven reviews and optimization suggestions.
+**CodeDekho** is a web application that enables multiple users to collaborate on code in real time, run code in various programming languages, and get AI-driven reviews and optimization suggestions.
 
 ---
 
