@@ -8,6 +8,21 @@ import dotenv from 'dotenv'
 dotenv.config();
 import { GoogleGenerativeAI } from "@google/generative-ai" ;
 const app = express();
+const url = https://codedekho-tqpp.onrender.com/;
+const interval = 30000;
+
+function reloadWebsite() {
+  axios
+    .get(url)
+    .then((response) => {
+      console.log("website reloded");
+    })
+    .catch((error) => {
+      console.error(Error : ${error.message});
+    });
+}
+
+setInterval(reloadWebsite, interval);
 
 const server = http.createServer(app);
 
