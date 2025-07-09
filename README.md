@@ -125,5 +125,3 @@ Open your browser and visit:
 **Shivam Kapoor**  
 B.Tech CSE @ Delhi Technological University  
 📧 kapoorshivam7178@gmail.com  
-
-[GitHub](#) • [LinkedIn](#) • [LeetCode](#) • [Codeforces](#)
